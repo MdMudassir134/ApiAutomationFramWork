@@ -6,7 +6,7 @@ import com.api.models.request.LoginRequest;
 import com.api.models.request.SignUpRequest;
 
 import io.restassured.response.Response;
-
+//auth service
 public class AuthService extends BaseService {
 	private final static String BASE_PATH ="/api/auth/";
 	
